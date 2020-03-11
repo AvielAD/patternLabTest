@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "name": "$pantone-2356c",
+      "value": "#720062",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-1665c",
+      "value": "#F15D22",
+      "comment": ""
+    },
+    {
+      "name": "$cool-gray-9C",
+      "value": "#75787B",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "description": "Principales"
+  }
+}

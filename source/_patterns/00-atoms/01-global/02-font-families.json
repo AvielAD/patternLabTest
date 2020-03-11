@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "name": "$gill-sans-semibold",
+      "value": "'Raleway', \"HelveticaNeue\", \"Helvetica\", \"Arial\", sans-serif",
+      "comment": ""
+    },
+    {
+      "name": "$trebuchet-ms-italic",
+      "value": "'Abel', serif",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "description": "To add to these items, use Sass variables that start with <code>$font-family-</code> in <code>./source/css/scss/abstracts/_variables.scss</code>"
+  }
+}

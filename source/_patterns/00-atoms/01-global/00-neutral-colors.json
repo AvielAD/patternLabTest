@@ -1,0 +1,143 @@
+{
+  "items": [
+    {
+      "name": "$pantone-2356c-90",
+      "value": "#720062e6",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-2356c-80",
+      "value": "#720062cc",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-2356c-70",
+      "value": "#720062b3",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-2356c-60",
+      "value": "#72006299",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-2356c-50",
+      "value": "#72006280",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-2356c-40",
+      "value": "#72006266",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-2356c-30",
+      "value": "#7200624d",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-2356c-20",
+      "value": "#72006233",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-2356c-10",
+      "value": "#7200621a",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-1665c-90",
+      "value": "#F15D22e6",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-1665c-80",
+      "value": "#F15D22cc",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-1665c-70",
+      "value": "#F15D22b3",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-1665c-60",
+      "value": "#F15D2299",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-1665c-50",
+      "value": "#F15D2280",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-1665c-40",
+      "value": "#F15D2266",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-1665c-30",
+      "value": "#F15D224d",
+      "comment": ""
+    },
+    {
+      "name": "$pantone-1665c-20",
+      "value": "#F15D2233",
+      "comment": ""
+    }, 
+    {
+      "name": "$pantone-1665c-10",
+      "value": "#F15D221a",
+      "comment": ""
+    }       
+    ,
+    {
+      "name": "$cool-gray-9C-90",
+      "value": "#75787Be6",
+      "comment": ""
+    },
+    {
+      "name": "$cool-gray-9C-80",
+      "value": "#75787Bcc",
+      "comment": ""
+    },
+    {
+      "name": "$cool-gray-9C-70",
+      "value": "#75787Bb3",
+      "comment": ""
+    },
+    {
+      "name": "$cool-gray-9C-60",
+      "value": "#75787B99",
+      "comment": ""
+    },
+    {
+      "name": "$cool-gray-9C-50",
+      "value": "#75787B80",
+      "comment": ""
+    },
+    {
+      "name": "$cool-gray-9C-40",
+      "value": "#75787B66",
+      "comment": ""
+    },
+    {
+      "name": "$cool-gray-9C-30",
+      "value": "#75787B4d",
+      "comment": ""
+    },
+    {
+      "name": "$cool-gray-9C-20",
+      "value": "#75787B33",
+      "comment": ""
+    }, 
+    {
+      "name": "$cool-gray-9C-10",
+      "value": "#75787B1a",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "description": "To add to these items, use Sass variables that start with <code>$color-neutral-</code> in <code>./source/css/scss/abstracts/_variables.scss</code>"
+  }
+}
